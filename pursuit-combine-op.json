@@ -1,0 +1,128 @@
+{
+    "test" : {
+        "sample_num" : -1
+    },
+    "data_file": "./data.json",
+    "out_dir": "./out/combine",
+    "reps": 3,
+    "density_positive": false,
+    "random_initial_alignment": true,
+    "options" : {
+        "num_of_first_iterations": 2,
+        "tmp_dir": "/u/scratch/j/jsingla/tmp-staging",
+        "network": {
+            "qhost": "localhost",
+            "qport": 5011
+        },
+        "pass_num"  : 500,
+        "stopping_test": {
+            "criterion": 0
+        },
+        "min_worker_num" : 600,
+        "min_chunk_size" : 20
+    },
+    "dim_reduction" : {
+        "train_with_selected_clusters_only": true,
+        "restrict_to_specific_clusters": false,
+        "with_missing_wedge" : false,
+        "normalize": false,
+        "use_segmentation_mask": false,
+        "max_feature_num" : 10000,
+        "pca" : {
+            "n_dims" : 50,
+            "n_iter" : 10
+        }
+    },
+    "cluster" : {
+        "size_min" : 50,
+        "overlap_ratio" : 0.01,
+        "include_hierarchy_mode" : false,
+        "hierarchy_tight_mode bak": {
+           "ssnr_selection": {
+               "min_size_ratio": 0.5
+           },
+           "cover_set bak": {
+           },
+           "tight_set bak": {
+           }
+        },
+        "stopping_test_pass_num": 4,
+        "kmeans" : {
+            "number" : 20,
+            "adaptive_k_ratio": 1.2
+        },
+        "sequential_expansion" : {
+            "filtering__second_largest_cut bak": {},
+            "gaussian_smooth_sigma bak": 10,
+            "mode bak": "global_maximum",
+            "debug bak": true
+        },
+        "averaging" : {
+            "centerize_loc": true,
+            "with_missing_wedge" : true,
+            "use_fft" : true,
+            "mask_count_threshold": 10,
+            "mask_binarize": false,
+
+            "smooth": {
+                "mode": "fsc_gaussian"
+            }
+        },
+        "ssnr": {
+            "segmentation": true
+        }
+    },
+    "cluster_average_select_fsc": {
+        "keep_non_specific_clusters": false
+    },
+    "align" : {
+        "with_missing_wedge" : true,
+        "L" : 36,
+
+        "fast_align_and_refine bak": {
+            "max_iter_num": 1000,
+            "stopping_tolerance": 1e-5,
+            "min_dist_record_size": 10,
+            "lambda": 1.0,
+            "top_num bak": 10,
+            
+            "verbose": false
+        }
+
+    },
+    "common_frame" : {
+        "mode" : 1,
+        "loc_r_max_proportion" : 0.2
+    },
+    "template": {
+       "match":{
+            "use_segmentation_mask": true,
+            "priority": 1501000
+        },
+        "segmentation": {
+            "normalize_and_take_abs": true
+        },
+        "guided_segmentation":{
+            "gaussian_smooth_sigma": 2.0,  "comments": "2nm, voxel spacing=0.4nm",
+            "phi_propotion_cutoff" : -2.0,       "comment": "try to keep sufficient amount of boundary regions of the target complex"
+        }
+
+    },
+    "ssnr": {
+        "method": 1
+    },
+    "segmentation" : {
+        "smooth_weight" : 1.0,
+        "image_weight" : 1.0,
+        "print_progress" : false
+    },
+
+    "cluster_removal_according_to_center_matching_specificity" : {
+        "significance_level" : 0.01
+    },
+
+    "programs": {
+        "export selected averages": "~/ln/tomominer/tomominer/pursuit/multi/analysis/cluster_avg_common_frame_export.py out/file_stat.json"
+    }
+}
+

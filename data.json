@@ -1,0 +1,3922 @@
+[
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2H12", 
+    "peak": {
+      "loc": [
+        53, 
+        393, 
+        87
+      ], 
+      "id": 0, 
+      "val": -0.012201732024550438
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000000.mrc", 
+    "cluster_label": 17
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        77, 
+        427, 
+        427
+      ], 
+      "id": 4, 
+      "val": -0.009711294434964657
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000004.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        77, 
+        383, 
+        439
+      ], 
+      "id": 7, 
+      "val": -0.008651168085634708
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000007.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2AWB", 
+    "peak": {
+      "loc": [
+        73, 
+        206, 
+        130
+      ], 
+      "id": 14, 
+      "val": -0.007620515767484903
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000014.mrc", 
+    "cluster_label": 14
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        40, 
+        153, 
+        389
+      ], 
+      "id": 17, 
+      "val": -0.007216720376163721
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000017.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        419, 
+        223, 
+        426
+      ], 
+      "id": 23, 
+      "val": -0.006623651832342148
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000023.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        372, 
+        238, 
+        282
+      ], 
+      "id": 31, 
+      "val": -0.006245044991374016
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000031.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        368, 
+        88, 
+        58
+      ], 
+      "id": 34, 
+      "val": -0.006154332775622606
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000034.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1YG6", 
+    "peak": {
+      "loc": [
+        136, 
+        316, 
+        381
+      ], 
+      "id": 36, 
+      "val": -0.0060663665644824505
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000036.mrc", 
+    "cluster_label": 18
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1F1B", 
+    "peak": {
+      "loc": [
+        46, 
+        328, 
+        321
+      ], 
+      "id": 43, 
+      "val": -0.005580454133450985
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000043.mrc", 
+    "cluster_label": 4
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1BXR", 
+    "peak": {
+      "loc": [
+        99, 
+        296, 
+        178
+      ], 
+      "id": 54, 
+      "val": -0.005221324972808361
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000054.mrc", 
+    "cluster_label": 2
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        128, 
+        118, 
+        57
+      ], 
+      "id": 55, 
+      "val": -0.005140197463333607
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000055.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        410, 
+        59, 
+        345
+      ], 
+      "id": 61, 
+      "val": -0.005032715387642384
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000061.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        397, 
+        425, 
+        438
+      ], 
+      "id": 64, 
+      "val": -0.004979425109922886
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000064.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2REC", 
+    "peak": {
+      "loc": [
+        311, 
+        386, 
+        331
+      ], 
+      "id": 69, 
+      "val": -0.004909303970634937
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000069.mrc", 
+    "cluster_label": 3
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        142, 
+        405, 
+        263
+      ], 
+      "id": 77, 
+      "val": -0.004846519790589809
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000077.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        216, 
+        366, 
+        401
+      ], 
+      "id": 79, 
+      "val": -0.004788944032043219
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000079.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1W6T", 
+    "peak": {
+      "loc": [
+        395, 
+        411, 
+        402
+      ], 
+      "id": 81, 
+      "val": -0.004770043306052685
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000081.mrc", 
+    "cluster_label": 16
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1QO1", 
+    "peak": {
+      "loc": [
+        257, 
+        448, 
+        382
+      ], 
+      "id": 82, 
+      "val": -0.004751899279654026
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000082.mrc", 
+    "cluster_label": 5
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        194, 
+        223, 
+        283
+      ], 
+      "id": 96, 
+      "val": -0.004564791917800903
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/0/000096.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1BXR", 
+    "peak": {
+      "loc": [
+        97, 
+        88, 
+        210
+      ], 
+      "id": 102, 
+      "val": -0.0045084175653755665
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000102.mrc", 
+    "cluster_label": 2
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        100, 
+        147, 
+        308
+      ], 
+      "id": 103, 
+      "val": -0.00450304988771677
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000103.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        276, 
+        387, 
+        237
+      ], 
+      "id": 109, 
+      "val": -0.00446298997849226
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000109.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        170, 
+        392, 
+        315
+      ], 
+      "id": 114, 
+      "val": -0.004430112894624472
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000114.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1W6T", 
+    "peak": {
+      "loc": [
+        144, 
+        139, 
+        293
+      ], 
+      "id": 116, 
+      "val": -0.004418559838086367
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000116.mrc", 
+    "cluster_label": 16
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        175, 
+        403, 
+        231
+      ], 
+      "id": 123, 
+      "val": -0.004344380926340818
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000123.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        408, 
+        129, 
+        444
+      ], 
+      "id": 125, 
+      "val": -0.004327316768467426
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000125.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        430, 
+        181, 
+        140
+      ], 
+      "id": 128, 
+      "val": -0.004290613811463118
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000128.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2H12", 
+    "peak": {
+      "loc": [
+        447, 
+        335, 
+        89
+      ], 
+      "id": 137, 
+      "val": -0.004214068409055471
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000137.mrc", 
+    "cluster_label": 17
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1BXR", 
+    "peak": {
+      "loc": [
+        92, 
+        324, 
+        350
+      ], 
+      "id": 140, 
+      "val": -0.004188469145447016
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000140.mrc", 
+    "cluster_label": 2
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        240, 
+        190, 
+        255
+      ], 
+      "id": 143, 
+      "val": -0.004166977014392614
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000143.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1QO1", 
+    "peak": {
+      "loc": [
+        245, 
+        213, 
+        155
+      ], 
+      "id": 155, 
+      "val": -0.004083543550223112
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000155.mrc", 
+    "cluster_label": 5
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        75, 
+        255, 
+        46
+      ], 
+      "id": 157, 
+      "val": -0.004071576986461878
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000157.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        193, 
+        190, 
+        147
+      ], 
+      "id": 158, 
+      "val": -0.004069922957569361
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000158.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        251, 
+        61, 
+        422
+      ], 
+      "id": 159, 
+      "val": -0.004063209984451532
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000159.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1YG6", 
+    "peak": {
+      "loc": [
+        274, 
+        284, 
+        154
+      ], 
+      "id": 165, 
+      "val": -0.004006632138043642
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000165.mrc", 
+    "cluster_label": 18
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        456, 
+        241, 
+        290
+      ], 
+      "id": 167, 
+      "val": -0.0040045203641057014
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000167.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        416, 
+        424, 
+        187
+      ], 
+      "id": 168, 
+      "val": -0.003991112112998962
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000168.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        258, 
+        131, 
+        203
+      ], 
+      "id": 169, 
+      "val": -0.003989839926362038
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000169.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        349, 
+        191, 
+        343
+      ], 
+      "id": 178, 
+      "val": -0.003960523754358292
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000178.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1A1S", 
+    "peak": {
+      "loc": [
+        397, 
+        302, 
+        170
+      ], 
+      "id": 182, 
+      "val": -0.003946161828935146
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000182.mrc", 
+    "cluster_label": 0
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        355, 
+        320, 
+        447
+      ], 
+      "id": 183, 
+      "val": -0.003940473310649395
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000183.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        145, 
+        362, 
+        147
+      ], 
+      "id": 188, 
+      "val": -0.003916298039257526
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000188.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2REC", 
+    "peak": {
+      "loc": [
+        318, 
+        232, 
+        314
+      ], 
+      "id": 193, 
+      "val": -0.00385485403239727
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000193.mrc", 
+    "cluster_label": 3
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        84, 
+        194, 
+        286
+      ], 
+      "id": 194, 
+      "val": -0.00385459722019732
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/1/000194.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        414, 
+        270, 
+        63
+      ], 
+      "id": 207, 
+      "val": -0.0037940326146781445
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/2/000207.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        257, 
+        65, 
+        145
+      ], 
+      "id": 217, 
+      "val": -0.003703651251271367
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/2/000217.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        237, 
+        343, 
+        202
+      ], 
+      "id": 239, 
+      "val": -0.003619503928348422
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/2/000239.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1QO1", 
+    "peak": {
+      "loc": [
+        166, 
+        446, 
+        356
+      ], 
+      "id": 242, 
+      "val": -0.003604490775614977
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/2/000242.mrc", 
+    "cluster_label": 5
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        39, 
+        50, 
+        146
+      ], 
+      "id": 252, 
+      "val": -0.003567975480109453
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/2/000252.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2REC", 
+    "peak": {
+      "loc": [
+        276, 
+        44, 
+        308
+      ], 
+      "id": 254, 
+      "val": -0.003547274274751544
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/2/000254.mrc", 
+    "cluster_label": 3
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        160, 
+        452, 
+        186
+      ], 
+      "id": 262, 
+      "val": -0.00349805667065084
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/2/000262.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2REC", 
+    "peak": {
+      "loc": [
+        249, 
+        39, 
+        81
+      ], 
+      "id": 265, 
+      "val": -0.003495631041005254
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/2/000265.mrc", 
+    "cluster_label": 3
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        189, 
+        138, 
+        372
+      ], 
+      "id": 281, 
+      "val": -0.0034421500749886036
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/2/000281.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1W6T", 
+    "peak": {
+      "loc": [
+        243, 
+        257, 
+        178
+      ], 
+      "id": 282, 
+      "val": -0.0034415272530168295
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/2/000282.mrc", 
+    "cluster_label": 16
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        265, 
+        114, 
+        260
+      ], 
+      "id": 283, 
+      "val": -0.003437421750277281
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/2/000283.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        285, 
+        345, 
+        281
+      ], 
+      "id": 292, 
+      "val": -0.00339421140961349
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/2/000292.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        385, 
+        359, 
+        202
+      ], 
+      "id": 297, 
+      "val": -0.0033745954278856516
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/2/000297.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VPX", 
+    "peak": {
+      "loc": [
+        383, 
+        362, 
+        138
+      ], 
+      "id": 308, 
+      "val": -0.003328781807795167
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000308.mrc", 
+    "cluster_label": 8
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        185, 
+        373, 
+        120
+      ], 
+      "id": 311, 
+      "val": -0.003306611208245158
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000311.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        142, 
+        252, 
+        449
+      ], 
+      "id": 312, 
+      "val": -0.003300223033875227
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000312.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        352, 
+        237, 
+        406
+      ], 
+      "id": 313, 
+      "val": -0.0032977161463350058
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000313.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        402, 
+        113, 
+        288
+      ], 
+      "id": 319, 
+      "val": -0.003263242542743683
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000319.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        124, 
+        168, 
+        152
+      ], 
+      "id": 322, 
+      "val": -0.003251579822972417
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000322.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        359, 
+        428, 
+        98
+      ], 
+      "id": 325, 
+      "val": -0.0032357294112443924
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000325.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        234, 
+        251, 
+        308
+      ], 
+      "id": 330, 
+      "val": -0.003196840640157461
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000330.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1BXR", 
+    "peak": {
+      "loc": [
+        421, 
+        425, 
+        368
+      ], 
+      "id": 343, 
+      "val": -0.003134752856567502
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000343.mrc", 
+    "cluster_label": 2
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        145, 
+        386, 
+        394
+      ], 
+      "id": 345, 
+      "val": -0.0031316373497247696
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000345.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1YG6", 
+    "peak": {
+      "loc": [
+        71, 
+        322, 
+        254
+      ], 
+      "id": 347, 
+      "val": -0.0031275618821382523
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000347.mrc", 
+    "cluster_label": 18
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        266, 
+        369, 
+        429
+      ], 
+      "id": 364, 
+      "val": -0.003062367206439376
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000364.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        452, 
+        226, 
+        456
+      ], 
+      "id": 379, 
+      "val": -0.0029946407303214073
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000379.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1F1B", 
+    "peak": {
+      "loc": [
+        169, 
+        72, 
+        84
+      ], 
+      "id": 380, 
+      "val": -0.0029906921554356813
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000380.mrc", 
+    "cluster_label": 4
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1BXR", 
+    "peak": {
+      "loc": [
+        440, 
+        366, 
+        424
+      ], 
+      "id": 386, 
+      "val": -0.0029569079633802176
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000386.mrc", 
+    "cluster_label": 2
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1F1B", 
+    "peak": {
+      "loc": [
+        143, 
+        70, 
+        267
+      ], 
+      "id": 390, 
+      "val": -0.002943327883258462
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000390.mrc", 
+    "cluster_label": 4
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        134, 
+        211, 
+        372
+      ], 
+      "id": 391, 
+      "val": -0.0029351948760449886
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000391.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2H12", 
+    "peak": {
+      "loc": [
+        73, 
+        110, 
+        301
+      ], 
+      "id": 394, 
+      "val": -0.0029270995873957872
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000394.mrc", 
+    "cluster_label": 17
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        374, 
+        158, 
+        90
+      ], 
+      "id": 397, 
+      "val": -0.0029070458840578794
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/3/000397.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        189, 
+        442, 
+        443
+      ], 
+      "id": 406, 
+      "val": -0.00289544858969748
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000406.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2AWB", 
+    "peak": {
+      "loc": [
+        95, 
+        71, 
+        396
+      ], 
+      "id": 408, 
+      "val": -0.002893521450459957
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000408.mrc", 
+    "cluster_label": 14
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VRG", 
+    "peak": {
+      "loc": [
+        88, 
+        136, 
+        360
+      ], 
+      "id": 423, 
+      "val": -0.002849131589755416
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000423.mrc", 
+    "cluster_label": 10
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        440, 
+        91, 
+        415
+      ], 
+      "id": 427, 
+      "val": -0.002837334293872118
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000427.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        419, 
+        148, 
+        213
+      ], 
+      "id": 432, 
+      "val": -0.002819320885464549
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000432.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1W6T", 
+    "peak": {
+      "loc": [
+        443, 
+        333, 
+        213
+      ], 
+      "id": 433, 
+      "val": -0.0028184675611555576
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000433.mrc", 
+    "cluster_label": 16
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1A1S", 
+    "peak": {
+      "loc": [
+        350, 
+        432, 
+        120
+      ], 
+      "id": 436, 
+      "val": -0.002815228421241045
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000436.mrc", 
+    "cluster_label": 0
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1QO1", 
+    "peak": {
+      "loc": [
+        374, 
+        438, 
+        325
+      ], 
+      "id": 437, 
+      "val": -0.0028127641417086124
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000437.mrc", 
+    "cluster_label": 5
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        58, 
+        125, 
+        184
+      ], 
+      "id": 442, 
+      "val": -0.0028020089957863092
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000442.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        97, 
+        180, 
+        343
+      ], 
+      "id": 446, 
+      "val": -0.0027921563014388084
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000446.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        189, 
+        86, 
+        54
+      ], 
+      "id": 455, 
+      "val": -0.0027472202200442553
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000455.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        164, 
+        157, 
+        131
+      ], 
+      "id": 458, 
+      "val": -0.002739722840487957
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000458.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        380, 
+        271, 
+        45
+      ], 
+      "id": 463, 
+      "val": -0.002721914555877447
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000463.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        419, 
+        459, 
+        152
+      ], 
+      "id": 465, 
+      "val": -0.0027111198287457228
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000465.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2REC", 
+    "peak": {
+      "loc": [
+        285, 
+        168, 
+        245
+      ], 
+      "id": 467, 
+      "val": -0.0026986519806087017
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000467.mrc", 
+    "cluster_label": 3
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        47, 
+        137, 
+        343
+      ], 
+      "id": 476, 
+      "val": -0.0026755277067422867
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000476.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        160, 
+        435, 
+        87
+      ], 
+      "id": 479, 
+      "val": -0.0026652165688574314
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000479.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        431, 
+        88, 
+        449
+      ], 
+      "id": 497, 
+      "val": -0.002604154869914055
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000497.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        412, 
+        224, 
+        146
+      ], 
+      "id": 499, 
+      "val": -0.0026034233160316944
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/4/000499.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        106, 
+        338, 
+        63
+      ], 
+      "id": 500, 
+      "val": -0.0026033518370240927
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/5/000500.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        166, 
+        302, 
+        87
+      ], 
+      "id": 514, 
+      "val": -0.0025590842124074697
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/5/000514.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        151, 
+        254, 
+        241
+      ], 
+      "id": 527, 
+      "val": -0.0025266523007303476
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/5/000527.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        234, 
+        166, 
+        156
+      ], 
+      "id": 534, 
+      "val": -0.0025089955888688564
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/5/000534.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        390, 
+        182, 
+        217
+      ], 
+      "id": 552, 
+      "val": -0.0024593861307948828
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/5/000552.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2H12", 
+    "peak": {
+      "loc": [
+        238, 
+        279, 
+        99
+      ], 
+      "id": 559, 
+      "val": -0.00244450056925416
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/5/000559.mrc", 
+    "cluster_label": 17
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1QO1", 
+    "peak": {
+      "loc": [
+        144, 
+        148, 
+        417
+      ], 
+      "id": 589, 
+      "val": -0.002337354701012373
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/5/000589.mrc", 
+    "cluster_label": 5
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1GYT", 
+    "peak": {
+      "loc": [
+        309, 
+        312, 
+        398
+      ], 
+      "id": 611, 
+      "val": -0.00229018391110003
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000611.mrc", 
+    "cluster_label": 7
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1QO1", 
+    "peak": {
+      "loc": [
+        208, 
+        421, 
+        355
+      ], 
+      "id": 613, 
+      "val": -0.002282047877088189
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000613.mrc", 
+    "cluster_label": 5
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        343, 
+        158, 
+        399
+      ], 
+      "id": 620, 
+      "val": -0.0022590213920921087
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000620.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1FNT", 
+    "peak": {
+      "loc": [
+        55, 
+        299, 
+        449
+      ], 
+      "id": 621, 
+      "val": -0.002257631393149495
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000621.mrc", 
+    "cluster_label": 1
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        251, 
+        294, 
+        62
+      ], 
+      "id": 623, 
+      "val": -0.0022509994450956583
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000623.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        362, 
+        57, 
+        375
+      ], 
+      "id": 625, 
+      "val": -0.0022453214041888714
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000625.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1F1B", 
+    "peak": {
+      "loc": [
+        184, 
+        83, 
+        365
+      ], 
+      "id": 626, 
+      "val": -0.0022426436189562082
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000626.mrc", 
+    "cluster_label": 4
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        202, 
+        208, 
+        450
+      ], 
+      "id": 652, 
+      "val": -0.0022009515669196844
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000652.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1F1B", 
+    "peak": {
+      "loc": [
+        133, 
+        59, 
+        278
+      ], 
+      "id": 658, 
+      "val": -0.002178422175347805
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000658.mrc", 
+    "cluster_label": 4
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        72, 
+        227, 
+        253
+      ], 
+      "id": 675, 
+      "val": -0.002150881802663207
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000675.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1F1B", 
+    "peak": {
+      "loc": [
+        368, 
+        236, 
+        99
+      ], 
+      "id": 678, 
+      "val": -0.0021469693165272474
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000678.mrc", 
+    "cluster_label": 4
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        332, 
+        247, 
+        211
+      ], 
+      "id": 682, 
+      "val": -0.0021349622402340174
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000682.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2AWB", 
+    "peak": {
+      "loc": [
+        258, 
+        57, 
+        53
+      ], 
+      "id": 686, 
+      "val": -0.002126323990523815
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000686.mrc", 
+    "cluster_label": 14
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VRG", 
+    "peak": {
+      "loc": [
+        73, 
+        41, 
+        217
+      ], 
+      "id": 693, 
+      "val": -0.0021105820778757334
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000693.mrc", 
+    "cluster_label": 10
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        409, 
+        316, 
+        120
+      ], 
+      "id": 694, 
+      "val": -0.002098803874105215
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000694.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VPX", 
+    "peak": {
+      "loc": [
+        197, 
+        359, 
+        228
+      ], 
+      "id": 696, 
+      "val": -0.0020983784925192595
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000696.mrc", 
+    "cluster_label": 8
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        130, 
+        412, 
+        189
+      ], 
+      "id": 699, 
+      "val": -0.0020946492440998554
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/6/000699.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        237, 
+        287, 
+        188
+      ], 
+      "id": 701, 
+      "val": -0.002089784713461995
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/7/000701.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        290, 
+        79, 
+        169
+      ], 
+      "id": 714, 
+      "val": -0.0020508780144155025
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/7/000714.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "0", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        230, 
+        185, 
+        375
+      ], 
+      "id": 718, 
+      "val": -0.0020454535260796547
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/0/30/50/peak-dog/75/subtomograms/7/000718.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1BXR", 
+    "peak": {
+      "loc": [
+        297, 
+        350, 
+        290
+      ], 
+      "id": 1, 
+      "val": -0.010649994015693665
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000001.mrc", 
+    "cluster_label": 2
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        302, 
+        317, 
+        132
+      ], 
+      "id": 14, 
+      "val": -0.00739794597029686
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000014.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        290, 
+        332, 
+        86
+      ], 
+      "id": 17, 
+      "val": -0.007288709282875061
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000017.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        457, 
+        230, 
+        395
+      ], 
+      "id": 19, 
+      "val": -0.007149233482778072
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000019.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2REC", 
+    "peak": {
+      "loc": [
+        43, 
+        172, 
+        396
+      ], 
+      "id": 27, 
+      "val": -0.006592453923076391
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000027.mrc", 
+    "cluster_label": 3
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2H12", 
+    "peak": {
+      "loc": [
+        64, 
+        194, 
+        426
+      ], 
+      "id": 37, 
+      "val": -0.006172369699925184
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000037.mrc", 
+    "cluster_label": 17
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        41, 
+        414, 
+        401
+      ], 
+      "id": 42, 
+      "val": -0.00601149769499898
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000042.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        71, 
+        419, 
+        428
+      ], 
+      "id": 43, 
+      "val": -0.005971830803900957
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000043.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        164, 
+        318, 
+        108
+      ], 
+      "id": 49, 
+      "val": -0.005837707314640284
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000049.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1YG6", 
+    "peak": {
+      "loc": [
+        213, 
+        337, 
+        146
+      ], 
+      "id": 65, 
+      "val": -0.00549208652228117
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000065.mrc", 
+    "cluster_label": 18
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        89, 
+        169, 
+        453
+      ], 
+      "id": 67, 
+      "val": -0.005480675958096981
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000067.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        372, 
+        451, 
+        440
+      ], 
+      "id": 83, 
+      "val": -0.005209379363805056
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000083.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        343, 
+        172, 
+        224
+      ], 
+      "id": 84, 
+      "val": -0.005207494366914034
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000084.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        168, 
+        353, 
+        387
+      ], 
+      "id": 94, 
+      "val": -0.0050462111830711365
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/0/000094.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1F1B", 
+    "peak": {
+      "loc": [
+        341, 
+        409, 
+        426
+      ], 
+      "id": 107, 
+      "val": -0.004873062018305063
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000107.mrc", 
+    "cluster_label": 4
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2REC", 
+    "peak": {
+      "loc": [
+        101, 
+        408, 
+        80
+      ], 
+      "id": 110, 
+      "val": -0.004850065801292658
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000110.mrc", 
+    "cluster_label": 3
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        105, 
+        273, 
+        442
+      ], 
+      "id": 112, 
+      "val": -0.004840593319386244
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000112.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VRG", 
+    "peak": {
+      "loc": [
+        345, 
+        311, 
+        408
+      ], 
+      "id": 113, 
+      "val": -0.004830885212868452
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000113.mrc", 
+    "cluster_label": 10
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        128, 
+        116, 
+        210
+      ], 
+      "id": 115, 
+      "val": -0.004811525344848633
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000115.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        336, 
+        107, 
+        351
+      ], 
+      "id": 116, 
+      "val": -0.004807812627404928
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000116.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1YG6", 
+    "peak": {
+      "loc": [
+        349, 
+        140, 
+        57
+      ], 
+      "id": 117, 
+      "val": -0.004803839605301619
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000117.mrc", 
+    "cluster_label": 18
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        453, 
+        152, 
+        352
+      ], 
+      "id": 125, 
+      "val": -0.004735672380775213
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000125.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        94, 
+        347, 
+        127
+      ], 
+      "id": 127, 
+      "val": -0.004733001347631216
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000127.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1BXR", 
+    "peak": {
+      "loc": [
+        121, 
+        225, 
+        222
+      ], 
+      "id": 129, 
+      "val": -0.004688844550400972
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000129.mrc", 
+    "cluster_label": 2
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        64, 
+        443, 
+        80
+      ], 
+      "id": 140, 
+      "val": -0.004594671074301004
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000140.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VPX", 
+    "peak": {
+      "loc": [
+        170, 
+        51, 
+        267
+      ], 
+      "id": 145, 
+      "val": -0.004565463401377201
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000145.mrc", 
+    "cluster_label": 8
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        232, 
+        318, 
+        161
+      ], 
+      "id": 148, 
+      "val": -0.004508080426603556
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000148.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        127, 
+        259, 
+        139
+      ], 
+      "id": 155, 
+      "val": -0.004404064267873764
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000155.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1QO1", 
+    "peak": {
+      "loc": [
+        159, 
+        431, 
+        189
+      ], 
+      "id": 175, 
+      "val": -0.004255933221429586
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000175.mrc", 
+    "cluster_label": 5
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1QO1", 
+    "peak": {
+      "loc": [
+        457, 
+        136, 
+        73
+      ], 
+      "id": 179, 
+      "val": -0.004237986635416746
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000179.mrc", 
+    "cluster_label": 5
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2REC", 
+    "peak": {
+      "loc": [
+        411, 
+        128, 
+        376
+      ], 
+      "id": 187, 
+      "val": -0.00418948894366622
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000187.mrc", 
+    "cluster_label": 3
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VPX", 
+    "peak": {
+      "loc": [
+        137, 
+        53, 
+        374
+      ], 
+      "id": 192, 
+      "val": -0.004138706251978874
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000192.mrc", 
+    "cluster_label": 8
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2REC", 
+    "peak": {
+      "loc": [
+        404, 
+        370, 
+        58
+      ], 
+      "id": 193, 
+      "val": -0.004138099495321512
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/1/000193.mrc", 
+    "cluster_label": 3
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1YG6", 
+    "peak": {
+      "loc": [
+        334, 
+        275, 
+        310
+      ], 
+      "id": 205, 
+      "val": -0.004042568150907755
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000205.mrc", 
+    "cluster_label": 18
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1GYT", 
+    "peak": {
+      "loc": [
+        151, 
+        252, 
+        308
+      ], 
+      "id": 207, 
+      "val": -0.004037119913846254
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000207.mrc", 
+    "cluster_label": 7
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        109, 
+        378, 
+        381
+      ], 
+      "id": 221, 
+      "val": -0.003965234849601984
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000221.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        324, 
+        182, 
+        122
+      ], 
+      "id": 232, 
+      "val": -0.003923229407519102
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000232.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1F1B", 
+    "peak": {
+      "loc": [
+        88, 
+        121, 
+        87
+      ], 
+      "id": 236, 
+      "val": -0.003885375801473856
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000236.mrc", 
+    "cluster_label": 4
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VPX", 
+    "peak": {
+      "loc": [
+        88, 
+        62, 
+        214
+      ], 
+      "id": 242, 
+      "val": -0.003833633614704013
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000242.mrc", 
+    "cluster_label": 8
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        270, 
+        205, 
+        310
+      ], 
+      "id": 249, 
+      "val": -0.0038114399649202824
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000249.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        196, 
+        437, 
+        88
+      ], 
+      "id": 258, 
+      "val": -0.003721918212249875
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000258.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        70, 
+        67, 
+        109
+      ], 
+      "id": 259, 
+      "val": -0.0037192662712186575
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000259.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        89, 
+        285, 
+        461
+      ], 
+      "id": 268, 
+      "val": -0.0036823456175625324
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000268.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        408, 
+        281, 
+        452
+      ], 
+      "id": 270, 
+      "val": -0.0036744559183716774
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000270.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1GYT", 
+    "peak": {
+      "loc": [
+        255, 
+        345, 
+        330
+      ], 
+      "id": 271, 
+      "val": -0.0036553910467773676
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000271.mrc", 
+    "cluster_label": 7
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        159, 
+        59, 
+        408
+      ], 
+      "id": 274, 
+      "val": -0.0036429795436561108
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000274.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        345, 
+        431, 
+        99
+      ], 
+      "id": 281, 
+      "val": -0.003591805463656783
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000281.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VPX", 
+    "peak": {
+      "loc": [
+        345, 
+        320, 
+        282
+      ], 
+      "id": 285, 
+      "val": -0.0035790326073765755
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000285.mrc", 
+    "cluster_label": 8
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        168, 
+        136, 
+        238
+      ], 
+      "id": 287, 
+      "val": -0.003574154106900096
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000287.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2H12", 
+    "peak": {
+      "loc": [
+        101, 
+        327, 
+        384
+      ], 
+      "id": 290, 
+      "val": -0.0035578820388764143
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000290.mrc", 
+    "cluster_label": 17
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1QO1", 
+    "peak": {
+      "loc": [
+        449, 
+        175, 
+        447
+      ], 
+      "id": 296, 
+      "val": -0.003538099117577076
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/2/000296.mrc", 
+    "cluster_label": 5
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        177, 
+        219, 
+        297
+      ], 
+      "id": 307, 
+      "val": -0.0035005626268684864
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000307.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        389, 
+        299, 
+        48
+      ], 
+      "id": 309, 
+      "val": -0.0034907888621091843
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000309.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1YG6", 
+    "peak": {
+      "loc": [
+        98, 
+        268, 
+        268
+      ], 
+      "id": 321, 
+      "val": -0.003437120234593749
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000321.mrc", 
+    "cluster_label": 18
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        377, 
+        122, 
+        150
+      ], 
+      "id": 322, 
+      "val": -0.0034369067288935184
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000322.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        460, 
+        192, 
+        303
+      ], 
+      "id": 329, 
+      "val": -0.0034087670501321554
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000329.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        198, 
+        52, 
+        329
+      ], 
+      "id": 332, 
+      "val": -0.0034038296435028315
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000332.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1QO1", 
+    "peak": {
+      "loc": [
+        440, 
+        234, 
+        174
+      ], 
+      "id": 335, 
+      "val": -0.003376544686034322
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000335.mrc", 
+    "cluster_label": 5
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        254, 
+        154, 
+        410
+      ], 
+      "id": 337, 
+      "val": -0.0033723562955856323
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000337.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        201, 
+        251, 
+        146
+      ], 
+      "id": 352, 
+      "val": -0.0033318274654448032
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000352.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        366, 
+        399, 
+        370
+      ], 
+      "id": 360, 
+      "val": -0.0033064493909478188
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000360.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VRG", 
+    "peak": {
+      "loc": [
+        433, 
+        430, 
+        180
+      ], 
+      "id": 368, 
+      "val": -0.0032773995772004128
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000368.mrc", 
+    "cluster_label": 10
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2REC", 
+    "peak": {
+      "loc": [
+        199, 
+        382, 
+        252
+      ], 
+      "id": 372, 
+      "val": -0.003264949657022953
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000372.mrc", 
+    "cluster_label": 3
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2AWB", 
+    "peak": {
+      "loc": [
+        274, 
+        281, 
+        457
+      ], 
+      "id": 385, 
+      "val": -0.003237143624573946
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000385.mrc", 
+    "cluster_label": 14
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1BXR", 
+    "peak": {
+      "loc": [
+        304, 
+        47, 
+        324
+      ], 
+      "id": 388, 
+      "val": -0.003228290705010295
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000388.mrc", 
+    "cluster_label": 2
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        240, 
+        64, 
+        41
+      ], 
+      "id": 390, 
+      "val": -0.003223014995455742
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000390.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        155, 
+        197, 
+        447
+      ], 
+      "id": 391, 
+      "val": -0.0032217015977948904
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000391.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        170, 
+        77, 
+        349
+      ], 
+      "id": 393, 
+      "val": -0.0032201216090470552
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000393.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        306, 
+        163, 
+        327
+      ], 
+      "id": 396, 
+      "val": -0.0032107895240187645
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000396.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1YG6", 
+    "peak": {
+      "loc": [
+        383, 
+        367, 
+        126
+      ], 
+      "id": 399, 
+      "val": -0.0031923784408718348
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/3/000399.mrc", 
+    "cluster_label": 18
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        165, 
+        242, 
+        179
+      ], 
+      "id": 404, 
+      "val": -0.0031775464303791523
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/4/000404.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        287, 
+        117, 
+        152
+      ], 
+      "id": 416, 
+      "val": -0.0031361235305666924
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/4/000416.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2REC", 
+    "peak": {
+      "loc": [
+        69, 
+        315, 
+        358
+      ], 
+      "id": 425, 
+      "val": -0.0030843461863696575
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/4/000425.mrc", 
+    "cluster_label": 3
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        46, 
+        153, 
+        42
+      ], 
+      "id": 426, 
+      "val": -0.0030828616581857204
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/4/000426.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        54, 
+        361, 
+        243
+      ], 
+      "id": 439, 
+      "val": -0.003038601018488407
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/4/000439.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        317, 
+        442, 
+        126
+      ], 
+      "id": 441, 
+      "val": -0.0030361793469637632
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/4/000441.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VRG", 
+    "peak": {
+      "loc": [
+        357, 
+        279, 
+        372
+      ], 
+      "id": 461, 
+      "val": -0.0029956705402582884
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/4/000461.mrc", 
+    "cluster_label": 10
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VRG", 
+    "peak": {
+      "loc": [
+        345, 
+        401, 
+        305
+      ], 
+      "id": 465, 
+      "val": -0.0029904807452112436
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/4/000465.mrc", 
+    "cluster_label": 10
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1YG6", 
+    "peak": {
+      "loc": [
+        238, 
+        331, 
+        289
+      ], 
+      "id": 473, 
+      "val": -0.0029432792216539383
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/4/000473.mrc", 
+    "cluster_label": 18
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        125, 
+        401, 
+        124
+      ], 
+      "id": 492, 
+      "val": -0.0028914951253682375
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/4/000492.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        358, 
+        256, 
+        429
+      ], 
+      "id": 494, 
+      "val": -0.002879879204556346
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/4/000494.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1QO1", 
+    "peak": {
+      "loc": [
+        184, 
+        157, 
+        73
+      ], 
+      "id": 503, 
+      "val": -0.002855990780517459
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000503.mrc", 
+    "cluster_label": 5
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        348, 
+        109, 
+        113
+      ], 
+      "id": 507, 
+      "val": -0.0028436658903956413
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000507.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1EQR", 
+    "peak": {
+      "loc": [
+        380, 
+        176, 
+        63
+      ], 
+      "id": 509, 
+      "val": -0.002840908942744136
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000509.mrc", 
+    "cluster_label": 6
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VPX", 
+    "peak": {
+      "loc": [
+        312, 
+        240, 
+        329
+      ], 
+      "id": 513, 
+      "val": -0.0028348625637590885
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000513.mrc", 
+    "cluster_label": 8
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2H12", 
+    "peak": {
+      "loc": [
+        276, 
+        268, 
+        153
+      ], 
+      "id": 517, 
+      "val": -0.002826059702783823
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000517.mrc", 
+    "cluster_label": 17
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1KP8", 
+    "peak": {
+      "loc": [
+        288, 
+        91, 
+        323
+      ], 
+      "id": 523, 
+      "val": -0.0027977782301604748
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000523.mrc", 
+    "cluster_label": 15
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        218, 
+        88, 
+        351
+      ], 
+      "id": 526, 
+      "val": -0.0027846309822052717
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000526.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2REC", 
+    "peak": {
+      "loc": [
+        301, 
+        62, 
+        57
+      ], 
+      "id": 533, 
+      "val": -0.00277659366838634
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000533.mrc", 
+    "cluster_label": 3
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VPX", 
+    "peak": {
+      "loc": [
+        336, 
+        281, 
+        402
+      ], 
+      "id": 540, 
+      "val": -0.002733642468228936
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000540.mrc", 
+    "cluster_label": 8
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        409, 
+        437, 
+        212
+      ], 
+      "id": 544, 
+      "val": -0.0027166588697582483
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000544.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        40, 
+        362, 
+        225
+      ], 
+      "id": 545, 
+      "val": -0.002716572256758809
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000545.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        123, 
+        101, 
+        424
+      ], 
+      "id": 548, 
+      "val": -0.0027085337787866592
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000548.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        398, 
+        123, 
+        69
+      ], 
+      "id": 554, 
+      "val": -0.0026837713085114956
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000554.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1A1S", 
+    "peak": {
+      "loc": [
+        119, 
+        418, 
+        460
+      ], 
+      "id": 571, 
+      "val": -0.0026228653732687235
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000571.mrc", 
+    "cluster_label": 0
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VRG", 
+    "peak": {
+      "loc": [
+        113, 
+        180, 
+        96
+      ], 
+      "id": 581, 
+      "val": -0.0025729129556566477
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000581.mrc", 
+    "cluster_label": 10
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        376, 
+        369, 
+        86
+      ], 
+      "id": 582, 
+      "val": -0.0025701902341097593
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000582.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2H12", 
+    "peak": {
+      "loc": [
+        460, 
+        269, 
+        439
+      ], 
+      "id": 585, 
+      "val": -0.0025578676722943783
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000585.mrc", 
+    "cluster_label": 17
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1BXR", 
+    "peak": {
+      "loc": [
+        59, 
+        367, 
+        369
+      ], 
+      "id": 587, 
+      "val": -0.0025486121885478497
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000587.mrc", 
+    "cluster_label": 2
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        173, 
+        289, 
+        262
+      ], 
+      "id": 593, 
+      "val": -0.002527743112295866
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/5/000593.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BYU", 
+    "peak": {
+      "loc": [
+        318, 
+        294, 
+        348
+      ], 
+      "id": 605, 
+      "val": -0.002486968645825982
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/6/000605.mrc", 
+    "cluster_label": 21
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        392, 
+        131, 
+        170
+      ], 
+      "id": 631, 
+      "val": -0.002400781260803342
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/6/000631.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1W6T", 
+    "peak": {
+      "loc": [
+        354, 
+        69, 
+        298
+      ], 
+      "id": 637, 
+      "val": -0.002385633299127221
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/6/000637.mrc", 
+    "cluster_label": 16
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        213, 
+        41, 
+        102
+      ], 
+      "id": 649, 
+      "val": -0.002360461512580514
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/6/000649.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VRG", 
+    "peak": {
+      "loc": [
+        315, 
+        207, 
+        269
+      ], 
+      "id": 658, 
+      "val": -0.0023397181648761034
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/6/000658.mrc", 
+    "cluster_label": 10
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        154, 
+        151, 
+        415
+      ], 
+      "id": 676, 
+      "val": -0.002300442196428776
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/6/000676.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2IDB", 
+    "peak": {
+      "loc": [
+        363, 
+        375, 
+        38
+      ], 
+      "id": 693, 
+      "val": -0.002267984440550208
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/6/000693.mrc", 
+    "cluster_label": 9
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        207, 
+        58, 
+        376
+      ], 
+      "id": 694, 
+      "val": -0.00226325704716146
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/6/000694.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VPX", 
+    "peak": {
+      "loc": [
+        110, 
+        176, 
+        408
+      ], 
+      "id": 705, 
+      "val": -0.0022333108354359865
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000705.mrc", 
+    "cluster_label": 8
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        298, 
+        374, 
+        125
+      ], 
+      "id": 706, 
+      "val": -0.0022267720196396112
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000706.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1GYT", 
+    "peak": {
+      "loc": [
+        445, 
+        214, 
+        59
+      ], 
+      "id": 718, 
+      "val": -0.002195735229179263
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000718.mrc", 
+    "cluster_label": 7
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        45, 
+        64, 
+        171
+      ], 
+      "id": 719, 
+      "val": -0.002191507490351796
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000719.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GHO", 
+    "peak": {
+      "loc": [
+        442, 
+        195, 
+        260
+      ], 
+      "id": 720, 
+      "val": -0.0021857740357518196
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000720.mrc", 
+    "cluster_label": 19
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        339, 
+        198, 
+        40
+      ], 
+      "id": 722, 
+      "val": -0.002174966037273407
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000722.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2BO9", 
+    "peak": {
+      "loc": [
+        252, 
+        302, 
+        407
+      ], 
+      "id": 725, 
+      "val": -0.0021678931079804897
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000725.mrc", 
+    "cluster_label": 12
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2REC", 
+    "peak": {
+      "loc": [
+        461, 
+        92, 
+        87
+      ], 
+      "id": 728, 
+      "val": -0.0021556413266807795
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000728.mrc", 
+    "cluster_label": 3
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1LB3", 
+    "peak": {
+      "loc": [
+        390, 
+        402, 
+        73
+      ], 
+      "id": 731, 
+      "val": -0.00214931508526206
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000731.mrc", 
+    "cluster_label": 20
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        227, 
+        243, 
+        113
+      ], 
+      "id": 733, 
+      "val": -0.0021462985314428806
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000733.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "3DY4", 
+    "peak": {
+      "loc": [
+        138, 
+        443, 
+        288
+      ], 
+      "id": 735, 
+      "val": -0.0021434533409774303
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000735.mrc", 
+    "cluster_label": 11
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "2GLS", 
+    "peak": {
+      "loc": [
+        152, 
+        184, 
+        165
+      ], 
+      "id": 737, 
+      "val": -0.0021412204951047897
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000737.mrc", 
+    "cluster_label": 13
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1GYT", 
+    "peak": {
+      "loc": [
+        346, 
+        146, 
+        419
+      ], 
+      "id": 738, 
+      "val": -0.0021258057095110416
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000738.mrc", 
+    "cluster_label": 7
+  }, 
+  {
+    "tomogram_id": "1", 
+    "mask": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/wedge-mask.mrc", 
+    "pdb_id": "1VRG", 
+    "peak": {
+      "loc": [
+        411, 
+        119, 
+        181
+      ], 
+      "id": 746, 
+      "val": -0.002110137138515711
+    }, 
+    "subtomogram": "/u/project/falber/jsingla/data/MPP/mpp_paper_run_1/subtomograms/5000/500-500-500/1/30/50/peak-dog/75/subtomograms/7/000746.mrc", 
+    "cluster_label": 10
+  }
+]
